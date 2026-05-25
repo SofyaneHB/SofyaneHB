@@ -4,9 +4,8 @@
  
 **Software Engineer | ENSIASD Student | Java & Web Developer**
  
-[![Followers](https://img.shields.io/github/followers/SofyaneHB?label=Followers&style=social)](https://github.com/SofyaneHB)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SofyaneHB)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sofyane@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofyane.habbouch.92@edu.uiz.ac.ma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://linkedin.com))
 
 
 
@@ -16,8 +15,6 @@
 </div>
 
  
-<!---->
- 
 ```java
 public class SoftwareEngineer {
     private String name;
@@ -25,7 +22,7 @@ public class SoftwareEngineer {
     private String[] system;
  
     public SoftwareEngineer() {
-        this.name = "Sofyane Habbouch";
+        this.name = "HABBOUCH Sofyane";
         this.institute = "ENSIASD";
         this.system = new String[]{"Fedora 44 Workstation", "GNOME"};
     }
@@ -42,14 +39,6 @@ public class SoftwareEngineer {
 ```
  
 <div align="center">
-
-
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
-
 
 # 💻 Tech Stack:
 
@@ -94,7 +83,6 @@ public class SoftwareEngineer {
 </div>
 <hr/>
 
-
 </div>
 
 
@@ -107,11 +95,5 @@ public class SoftwareEngineer {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SofyaneHB/SofyaneHB/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SofyaneHB/SofyaneHB/output/pacman-contribution-graph.svg">
 </picture>
-
-
-
-
-
-
 
 
