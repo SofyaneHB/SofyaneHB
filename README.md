@@ -5,8 +5,7 @@
 **Software Engineer | ENSIASD Student | Java & Web Developer**
  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofyane.habbouch.92@edu.uiz.ac.ma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://linkedin.com))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofyane-habbouch-14b2893b1/)
 
 
 # 🧑‍💻 ABOUT ME
